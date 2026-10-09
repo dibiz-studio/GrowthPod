@@ -12,7 +12,7 @@ function OfferCard({ offer }: { offer: Offer }) {
         {offer.title}
         {offer.isNew && (
           <>
-            {" "}
+            {" "} 
             <span className="new">New</span>
           </>
         )}
@@ -104,7 +104,7 @@ export default function Services() {
                     <span key={m}>{m}</span>
                   ))}
                 </div>
-                <a href="https://calendly.com/snigdhasingh-dibizsolution/discovery-call" className="btn btn-black">
+                <a href="https://calendly.com/snigdha-growthpod/30min" className="btn btn-black">
                   {s.cta}
                 </a>
               </div>

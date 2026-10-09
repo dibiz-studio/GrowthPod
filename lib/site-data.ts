@@ -159,5 +159,5 @@ export const contact = {
   phone: '+91 75819 68901',
   phoneHref: 'tel:+917581968901',
   instagram: 'https://www.instagram.com/singh.snigdha',
-  bookingUrl: 'https://calendly.com/snigdhasingh-dibizsolution/discovery-call',
+  bookingUrl: 'https://calendly.com/snigdha-growthpod/30min',
 };

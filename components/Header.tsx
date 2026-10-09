@@ -28,7 +28,7 @@ export default function Header() {
             </a>
           ))}
         </nav>
-        <a href="https://calendly.com/snigdhasingh-dibizsolution/discovery-call" className="btn btn-black">
+        <a href="https://calendly.com/snigdha-growthpod/30min" className="btn btn-black">
           Book a call
         </a>
       </div>

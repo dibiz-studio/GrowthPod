@@ -30,7 +30,7 @@ export default function Hero() {
             Instagram. Strategy, shoots, edits and performance, run as one system.
           </p>
           <div className="hero-ctas">
-            <a href="https://calendly.com/snigdhasingh-dibizsolution/discovery-call" className="btn btn-primary">
+            <a href="https://calendly.com/snigdha-growthpod/30min" className="btn btn-primary">
               Book a discovery call
               <ArrowRight />
             </a>
