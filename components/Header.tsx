@@ -29,7 +29,7 @@ export default function Header() {
           ))}
         </nav>
         <a href="https://calendly.com/snigdhasingh-dibizsolution/discovery-call" className="btn btn-black">
-          Book a discovery call
+          Book a call
         </a>
       </div>
     </header>
